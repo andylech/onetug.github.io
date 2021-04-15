@@ -54,3 +54,7 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Blog settings
+paginate: 5
+paginate_path: "/blog/page:num"
