@@ -1,0 +1,10 @@
+- name: About Us
+  link: /about-us/
+- name: Blog
+  link: /blog/
+- name: Code Camp
+  link: /code-camp/
+- name: Events
+  link: /events/
+- name: Sponsors
+  link: /sponsors/
